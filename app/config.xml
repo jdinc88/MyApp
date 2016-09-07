@@ -6,9 +6,9 @@
 -->
 
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns   = "http://site693.webelevate.net"
+<widget xmlns   = ""
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "net.webelevate.site693"
+    id          = ""
     versionCode = "10"
     version     = "1.0.0" >
 
@@ -18,15 +18,13 @@
 To-do List App for Mobile and Web Application Module WebElevate 4.1
 </description>
 
-<author href="http://site693.webelevate.net" email="philip.grogan@webelevate.ie">
+<author href="" email="philip.grogan@webelevate.ie">
 Philip Grogan
 </author>
 
 <content src="index.html"></content>
 
-<plugin name="cordova-plugin-whitelist">
-
-<allow-intent href="http://site693.webelevate.net" />
+<allow-intent href="" />
 
 <access origin="http://phonegap.com" subdomains="true" />
 
